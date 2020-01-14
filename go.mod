@@ -1,4 +1,4 @@
-module protos
+module github.com/shikejie/protos
 
 go 1.13
 
